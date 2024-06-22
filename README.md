@@ -1,4 +1,5 @@
-# Individual task in WoTech program week 11
+# PYTHON
+# Individual task in WoTech program week 11 
 
 **Task**:
 
